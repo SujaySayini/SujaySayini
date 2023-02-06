@@ -7,7 +7,6 @@
 
 <details> 
    <summary><h2>🛠️ Languages and Tools</h2></summary>
-   <h3>👨‍💻 Programming and Markup Languages</h3>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -51,9 +50,7 @@
   </p>
 
   <h3>💻 Software and Tools</h3>
-
   <p>
-    
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
