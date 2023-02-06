@@ -1,7 +1,5 @@
 # Sujay Sayini
 
-#
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+welcome+to+my+Github!;Always+Learning+Something+New;Full-Stack+Developer)](https://git.io/typing-svg)
 ---
 
@@ -59,7 +57,10 @@
   </p>
   
 </details> 
-  
+---
+
+### 📊 Stats
+[![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujaySayini&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SujaySayini/SujaySayini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
