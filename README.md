@@ -62,7 +62,9 @@
 
 <details> 
    <summary><h2>📊 My Stats</h2></summary>
+   
    <h3>💻 GitHub Profile Stats</h3>
+   
 [![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujaySayini&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    
    <p><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujaySayini&langs_count=5&theme=tokyonight" alt="SujaySayini"/></a></p>
@@ -71,7 +73,9 @@
  <br>
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujaySayini&theme=github)
    <br>
+   
    <h3>🔥 Streak Stats</h3>
+   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SujaySayini&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&border=8636DD&stroke=DDDDDD)](https://git.io/streak-stats)
    
 </details> 
