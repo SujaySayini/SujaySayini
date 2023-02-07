@@ -59,7 +59,10 @@
 </details> 
 <details> 
    <summary><h2>📊 My Stats</h2></summary>
+   
 [![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujaySayini&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   
+   <br>
    
    <p><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujaySayini&langs_count=5&theme=tokyonight" alt="SujaySayini"/></a></p>
 
@@ -70,10 +73,6 @@
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujaySayini&theme=github) 
  <br>
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujaySayini&theme=github)
- <br>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SujaySayini&theme=github)
- <br>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SujaySayini&theme=github) 
 </details> 
 
 <!--
