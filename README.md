@@ -57,14 +57,33 @@
   </p>
   
 </details> 
----
-
-### 📊 Stats
+<details> 
+   <summary><h2>📊 My Stats</h2></summary>
 [![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujaySayini&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   
+   <p><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-sreedharan&langs_count=5&theme=tokyonight" alt="Rohithaditya"/></a></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith-sreedharan&show_icons=true&locale=en" alt="rohith-sreedharan" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohith-Sreedharan&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&border=8636DD&stroke=DDDDDD)](https://git.io/streak-stats)
+   
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith-sreedharan&theme=github) 
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohith-sreedharan&theme=github)
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohith-sreedharan&theme=github)
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohith-sreedharan&theme=github) 
+</details> 
 
 <!--
 **SujaySayini/SujaySayini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hi there 👋 welcome to my Github!
+my coding journey?
+**`Software Developer (Developer)`**
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
