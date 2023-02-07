@@ -61,19 +61,19 @@
    <summary><h2>📊 My Stats</h2></summary>
 [![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujaySayini&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    
-   <p><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-sreedharan&langs_count=5&theme=tokyonight" alt="Rohithaditya"/></a></p>
+   <p><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujaySayini&langs_count=5&theme=tokyonight" alt="SujaySayini"/></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith-sreedharan&show_icons=true&locale=en" alt="rohith-sreedharan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SujaySayini&show_icons=true&locale=en" alt="SujaySayini" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohith-Sreedharan&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&border=8636DD&stroke=DDDDDD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SujaySayini&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&border=8636DD&stroke=DDDDDD)](https://git.io/streak-stats)
    
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith-sreedharan&theme=github) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujaySayini&theme=github) 
  <br>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohith-sreedharan&theme=github)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujaySayini&theme=github)
  <br>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohith-sreedharan&theme=github)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SujaySayini&theme=github)
  <br>
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohith-sreedharan&theme=github) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SujaySayini&theme=github) 
 </details> 
 
 <!--
